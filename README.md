@@ -1,5 +1,7 @@
 # This fork edited to fix upstream
-- as of 31 OCT 2024
+- as of 12 NOV 2024
+- upgraded to astro version 4.16.10
+- upgraded to tailwind version 3.4.14
 
 
 # [Flowbite Astro Admin Dashboard](https://themesberg.github.io/flowbite-astro-admin-dashboard/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fthemesberg%2Fflowbite-astro-admin-dashboard&text=Check%20out%20this%20open-source%20admin%20dashboard%20built%20with%20Flowbite%2C%20Astro%20and%20Tailwind%20CSS)
